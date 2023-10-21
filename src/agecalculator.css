@@ -1,0 +1,25 @@
+
+h1{
+    color: black;
+}
+
+label{
+    color: black;
+    font-weight: 600;
+}
+
+input{
+    font-size: 20px;
+}
+
+button{
+    color: white;
+    background-color: rgb(13, 83, 173);
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+p{
+    color: black;
+}
